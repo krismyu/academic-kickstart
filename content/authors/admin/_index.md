@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor, Department of Linguistics
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst
+- name: UMass Amherst Linguistics
   url: "https://www.umass.edu/linguistics"
 
 # Short bio (displayed in user profile at end of posts)
