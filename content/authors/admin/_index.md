@@ -14,8 +14,10 @@ role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: UMass Amherst Linguistics
+- name: Department of Linguistics
   url: "https://www.umass.edu/linguistics"
+- name: University of Massachusetts Amherst
+  url: "https://www.umass.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Linguist @ UMass Amherst
@@ -24,6 +26,7 @@ interests:
 - Tone/intonation
 - Computational prosody
 - Polynesian and Formosan languages
+- African American English
 - Phonetics & phonology
 - Language variation
 
@@ -58,7 +61,7 @@ social:
   link: https://osf.io/f9m4t/
 - icon: cv
   icon_pack: ai
-  link: https://github.com/krismyu/kmyu-cv/blob/master/kmyu-cv.pdf
+  link: https://github.com/krismyu/kmyu-cv/raw/master/kmyu-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "krisyu@linguist.umass.edu"
@@ -66,8 +69,9 @@ email: "krisyu@linguist.umass.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
 ---
 
 I am a linguist and a phonetician and phonologist. My primary focus is prosody from the speech signal to grammar and processing. My work integrates diverse approaches, including fieldwork, experiments, formal language theory, and machine learning. Recent language areas of focus include Samoan, Formosan languages, and African American English.
+
+
+
