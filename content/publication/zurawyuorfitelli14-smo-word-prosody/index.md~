@@ -1,0 +1,52 @@
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "The word-level prosody of Samoan"
+subtitle: ""
+authors: ['admin']
+publication_types: ["2"]
+publication: "*Phonology*"
+publication_short: "*Phonology*"
+abstract: "This paper documents and analyses stress and vowel length in Samoan words. The domain of footing, the Prosodic Word, appears to be a root and cohering suffixes; prefixes and most disyllabic suffixes form a separate domain. Vowel sequences that disrupt the normal stress pattern require constraints matching sonority prominence to metrical prominence, sensitive to degree of mismatch and to the number of vowels involved. Two suffixes unexpectedly have an idiosyncratic footing constraint, observable only in a limited set of words. We also discuss trochaic shortening and its asymmetrical productivity, and the marginal contrastiveness of some features in loans. While Samoan does not appear to be typologically unusual, it does offer arguments (i) in favour of alignment constraints on Prosodic Words rather than only on feet directly, and (ii) against simple cyclicity. Some of the strongest evidence comes from stress patterns of the rich inventory of phonotactically licit vowel sequences."
+tags: [Samoan, Austronesian, stress, phonology, fieldwork, morphology]
+categories: []
+date: 2014-09-15
+lastmod: 
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+links:
+ - name: Web
+   url: https://doi.org/10.1017/S095267571400013X
+   icon_pack: fa
+   icon: globe-africa
+# - name: OSF repository
+#   url: https://osf.io/8cvg5/?view_only=e9be8cb15097493897b826f53487e345
+#   icon_pack: ai
+ #  icon: osf
+ - name: Local PDF
+   url: ZurawYuOrfitelli14-WordLevelProsodySamoan.pdf
+   icon_pack: fa
+   icon: file-pdf
+
+
+
+---
