@@ -20,10 +20,10 @@ organizations:
   url: "https://linguistics.ucla.edu/"
 
 # Optional external URL for author (replaces author detail page).
-external_link: "https://linguistics.ucla.edu/people/zuraw/"
+external_link: "https://scholar.google.com/citations?hl=en&user=PcCdKpkAAAAJ"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor @ UCLA Linguistics
+bio: 
 
 
 education:
