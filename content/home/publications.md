@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Publications"
+title = "Selected Publications"
 subtitle = ""
 
 [content]
@@ -67,6 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
+*Full list of publications and talks is linked from my [CV](https://github.com/krismyu/kmyu-cv/raw/master/kmyu-cv.pdf).*
 <!-- {{% alert note %}} -->
 <!-- Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}). -->
 <!-- {{% /alert %}} -->
