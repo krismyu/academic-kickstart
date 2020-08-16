@@ -61,7 +61,7 @@ social:
   link: https://osf.io/f9m4t/
 - icon: cv
   icon_pack: ai
-  link: https://github.com/krismyu/kmyu-cv/raw/master/kmyu-cv.pdf
+  link: files/kmyu-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "krisyu@linguist.umass.edu"

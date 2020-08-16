@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-*Full list of publications and talks is linked from my [CV](https://github.com/krismyu/kmyu-cv/raw/master/kmyu-cv.pdf).*
+*A full list of publications and talks is linked from my [CV](files/kmyu-cv.pdf).*
 <!-- {{% alert note %}} -->
 <!-- Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}). -->
 <!-- {{% /alert %}} -->

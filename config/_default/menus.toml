@@ -35,7 +35,7 @@
 
  [[main]]
     name = "CV"
-    url = "https://github.com/krismyu/kmyu-cv/raw/master/kmyu-cv.pdf"
+    url = "files/kmyu-cv.pdf"
     weight = 60
 
 [[main]]
