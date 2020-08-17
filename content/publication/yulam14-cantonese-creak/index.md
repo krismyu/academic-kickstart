@@ -48,6 +48,8 @@ links:
    icon_pack: fa
    icon: file-pdf
 
-
-
 ---
+
+{{% alert note %}}
+See [Zhang and Kirby (2020)](https://doi.org/10.1121/10.0001523) for a related follow-up study!
+{{% /alert %}}
