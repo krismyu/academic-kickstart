@@ -8,7 +8,7 @@ publication_types: ["2"]
 publication: "*Catalan Journal of Linguistics*"
 publication_short: ""
 abstract: "Whether or not phonology has recursion is often conflated with whether or not phonology has strings or trees as data structures. Taking a computational perspective from formal language theory and focusing on how phonological strings and trees are built, we disentangle these issues. We show that even considering the boundedness of words and utterances in physical realization and the lack of observable examples of potential recursive embedding of phonological constituents beyond a few layers, recursion is a natural consequence of expressing generalization in phonological grammars for strings and trees. While prosodically-conditioned phonological patterns can be represented using grammars for strings, e.g., with bracketed string representations, we show how grammars for trees provide a natural way to express these patterns and provide insight into the kinds of analyses that phonologists have proposed for them."
-tags: [phonology, prosody, recursion, constituents, formal language theory, tree transducers]
+tags: [phonology, computational prosody, recursion, constituents, formal language theory, tree transducers]
 categories: []
 date: 2021-12-22
 lastmod: 
