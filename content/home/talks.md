@@ -68,3 +68,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+*Older talk slides can be found on [Speaker Deck](https://speakerdeck.com/krisyu).*
