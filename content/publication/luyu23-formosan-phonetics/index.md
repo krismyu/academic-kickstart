@@ -10,7 +10,7 @@ publication_short: "*Handbook of Formosan languages*"
 abstract: "While a sizeable body of literature has documented and analyzed the phonological and morpho-syntactic characteristics of Formosan languages, phonetic descriptions of these endangered languages are relatively scarce, and few of these phonetic studies have involved instrumental investigations. This chapter provides a comprehensive review of each of the major languages described in Chapter 8, including phonetic characterizations of vowels, consonants, and word prominence, with the goal of identifying areas awaiting further research. Each section presents one language, and the sections are arranged in alphabetical order."
 tags: [Formosan, Austronesian, phonetics, stress]
 categories: []
-publishdate: 2022-06-03
+publishdate: 2022-06-02
 date: 2023-06-02
 lastmod: 
 featured: false
