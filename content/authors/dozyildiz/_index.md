@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student, <br> UMass Linguistics
+role: Ph.D (2021), <br> UMass Linguistics
 
 # Organizations/Affiliations
 organizations:
@@ -38,6 +38,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Collaborators
+- Past Collaborators
 ---
 

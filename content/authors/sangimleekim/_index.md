@@ -21,7 +21,7 @@ organizations:
 external_link: "https://sites.google.com/site/sangimleekim/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor @ National Chiao Tung University
+bio: Associate Professor @ National Chiao Tung University
 
 
 education:
@@ -37,6 +37,6 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current Collaborators
+#- Current Collaborators
 ---
 
