@@ -10,7 +10,7 @@ publication_short: "*Language & Speech*"
 abstract: "This paper jointly considers syntactic, semantic and phonological/phonetic factors in approaching an understanding of BIN, a remote past marker in African American English that has been described as \"stressed\". It brings together data from the Corpus of Regional African American Language (CORAAL) and a production study in a small AAE-speaking community in southwest Louisiana to investigate the use and phonetic realization of BIN constructions. Only 20 instances of BIN constructions were found in CORAAL. This sparsity was not simply due to a dearth of semantic contexts for BIN in the interviews, since 122 instances of semantically equivalent been + temporal adverbial variants were also found. These results raise questions about the extent to which BIN constructions and been + temporal adverbial variants are used in different pragmatic and discourse contexts as well as in different speech styles. The production study elicited BIN and past participle been constructions in controlled syntactic and semantic environments. The phonetic realization of BIN was found to be distributed over the entire utterance rather than localized to BIN. BIN utterances were distinguished from past participle been utterances by having higher ratios of fundamental frequency (F0), intensity, and duration in BIN/been relative to preceding and following material in the utterance. In both studies, BIN utterances were generally realized with a high F0 peak on BIN and a reduced F0 range in the post-BIN region, with variability in the presence and kinds of F0 movements utterance-initially and utterance-finally, as well as in F0 downtrends in the post-BIN region."
 tags: [phonology, intonation, tone, prosody, African American English, aspect, semantics, syntax-prosody]
 categories: []
-date: 2022-06-02
+date: 2022-07-27
 lastmod: 
 featured: false
 draft: false
@@ -34,12 +34,16 @@ projects: []
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: Open Access
-   url: 
+ - name: DOI
+   url: https://doi.org/10.1177%2F00238309221111201
    icon_pack: ai
-   icon: open-access
+   icon: doi
+ - name: OSF repository
+   url: https://osf.io/mrqbv/
+   icon_pack: ai
+   icon: osf
  - name: Local PDF
-   url: 
+   url: GreenETAL22-RangeUseRealizationBIN.pdf
    icon_pack: fa
    icon: file-pdf
 
