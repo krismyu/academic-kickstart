@@ -34,10 +34,10 @@ projects: []
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name: DOI
+ - name: Open Access
    url: https://doi.org/10.1177%2F00238309221111201
    icon_pack: ai
-   icon: doi
+   icon: open-access
  - name: OSF repository
    url: https://osf.io/mrqbv/
    icon_pack: ai
