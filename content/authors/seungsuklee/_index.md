@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Optional external URL for author (replaces author detail page).
-external_link: 
+external_link: https://people.umass.edu/seungsuklee
 
 
 # Short bio (displayed in user profile at end of posts)
