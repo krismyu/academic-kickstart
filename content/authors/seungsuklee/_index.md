@@ -14,8 +14,8 @@ role: Graduate Student, <br> UMass Linguistics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Massachusetts Amherst
-  url: ""
+- name: Website
+  url: "https://people.umass.edu/seungsuklee"
 
 # Optional external URL for author (replaces author detail page).
 external_link: https://people.umass.edu/seungsuklee
