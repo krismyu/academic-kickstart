@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Seung Suk (Josh) Lee](https://people.umass.edu/seungsuklee)
+title: Seung Suk (Josh) Lee
 
 # Username (this should match the folder name)
 authors:
