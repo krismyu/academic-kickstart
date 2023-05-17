@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Seung Suk (Josh) Lee
+title: [Seung Suk (Josh) Lee](https://people.umass.edu/seungsuklee)
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: Graduate Student, <br> UMass Linguistics
 # Organizations/Affiliations
 organizations:
 - name: University of Massachusetts Amherst
-  url: "https://people.umass.edu/seungsuklee"
+  url: ""
 
 # Optional external URL for author (replaces author detail page).
 external_link: https://people.umass.edu/seungsuklee
