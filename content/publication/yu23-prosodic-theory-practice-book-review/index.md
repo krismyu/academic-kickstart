@@ -38,10 +38,10 @@ links:
    url: https://doi.org/10.1017/S0952675723000052
    icon_pack: fa
    icon: globe-africa
- <!-- - name: Local PDF -->
- <!--   url: Yu23-ProsodicTheoryPracticeBookReview.pdf -->
- <!--   icon_pack: fa -->
- <!--   icon: file-pdf -->
+ - name: Local PDF
+   url: Yu23-ProsodicTheoryPracticeBookReview.pdf
+   icon_pack: fa
+   icon: file-pdf
 
 
 
