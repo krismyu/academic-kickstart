@@ -42,14 +42,14 @@ links:
    #url: https://osf.io/mrqbv/
   # icon_pack: ai
  #  icon: osf
- - name: Local PDF
+ - name: Local PDF of paper
    url: YuFarinella24-ProsodicVariabilityMarkingRemotePastAfricanAmericanEnglish.pdf
    icon_pack: fa
    icon: file-pdf
-#- name: Local PDF of poster
-#   url: YuFarinella24-ProsodicVariabilityMarkingRemotePastAfricanAmericanEnglishPoster.pdf
-#   icon_pack: fa
-#   icon: file-pdf
+- name: Local PDF of poster
+   url_poster: YuFarinella24-ProsodicVariabilityMarkingRemotePastAfricanAmericanEnglishPoster.pdf
+   icon_pack: fa
+   icon: file-pdf
 
 
 
