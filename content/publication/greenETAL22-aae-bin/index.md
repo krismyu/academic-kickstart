@@ -3,7 +3,7 @@
 
 title: "Range in the use and realization of BIN in African American English"
 subtitle: ""
-authors: ['lgreen','admin','anneal','awhitmal','Tamira Powe','dozyildiz']
+authors: ['lgreen','admin','anneal','awhitmal','tpowe','dozyildiz']
 publication_types: ["2"]
 publication: "*Language & Speech*"
 publication_short: "*Language & Speech*"
@@ -11,7 +11,7 @@ abstract: "This paper jointly considers syntactic, semantic and phonological/pho
 tags: [phonology, intonation, tone, prosody, African American English, aspect, semantics, syntax-prosody]
 categories: []
 date: 2022-07-27
-lastmod: 
+lastmod:
 featured: false
 draft: false
 
