@@ -7,10 +7,10 @@ location: University of Texas Austin
 address:
   city: Austin
   region: TX
-  postcode: 
+  postcode:
   country: USA
 
-summary: 
+summary:
 abstract: "Intonational transcription conventions from MAE-ToBI (Mainstream American English-Tones and Break Indices) (Beckman & Pierrehumbert 1986, Beckman & Elam 1997, Veilleux et al. 2006) are commonly taken as a starting point for the intonational analysis of African American English (AAE), e.g., Holliday (2019). But AAE examples weren’t considered in developing MAE-ToBI conventions. And there are biases imposed by the particular intonational analysis assumed in MAE-ToBI that might unhelpfully confine the hypothesis space of analyses considered for AAE intonation. This paper draws attention to some of these biases and intonational patterns of AAE that raise questions about them: (i) a high pitch accent followed by a sharp fall and (ii) utterance-initial superhigh pitch followed by a much reduced pitch range. (First paragraph of abstract) "
 
 
@@ -26,7 +26,7 @@ all_day: true
 authors:
 - 'afarinella'
 - 'admin'
-- Alejna Brugos
+- 'abrugos'
 - 'lgreen'
 
 tags:
@@ -40,7 +40,7 @@ tags:
 featured: true
 
 image:
-  caption: 
+  caption:
   focal_point: Right
 
 links:
@@ -71,4 +71,3 @@ math: false
 [External Link to Video](https://youtu.be/8W4tsz7Fq7M)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8W4tsz7Fq7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
